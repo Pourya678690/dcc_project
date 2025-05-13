@@ -1,0 +1,56 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# === Virtual Environments ===
+.venv/
+env/
+venv/
+ENV/
+
+# === VS Code ===
+.vscode/
+*.code-workspace
+
+# === Environment & Secrets ===
+.env
+*.env
+.env.*
+
+# === Installer Logs ===
+pip-log.txt
+pip-delete-this-directory.txt
+
+# === Byte-compiled files ===
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+
+# === Test and Coverage ===
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+htmlcov/
+
+# === Distribution / Packaging ===
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# === MyPy / Type Checking ===
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
